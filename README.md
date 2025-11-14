@@ -1,6 +1,6 @@
 # BettingWave Policy Site
 
-This repository hosts public policy documents for the BettingWave Matcher app.
+This repository hosts public policy documents for the BettingWave app.
 
 - Public URL (after enabling GitHub Pages):
   - https://<your-username>.github.io/bettingwave-policy/
